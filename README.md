@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Just Clone or Download files and open terminal ,after going to file location enter the command npm i npm start
+
+and there it is...😊😊
 
 ## Available Scripts
 
