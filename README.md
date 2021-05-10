@@ -1,6 +1,6 @@
 Just Clone or Download files and open terminal ,after going to file location enter the command
-`npm i `
-`npm start`
+* `npm i `
+* `npm start`
 
 and there it is...😊😊
 
